@@ -104,4 +104,8 @@ if prompt_usuario:
         actualizar_historial("assistant", "Lo siento, hubo un error al obtener la respuesta.", "👻")
 
 # Mostrar historial actualizado
+
 area_chat()
+
+if __name__ == "__main__":
+    main()
