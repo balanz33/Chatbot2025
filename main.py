@@ -106,6 +106,3 @@ if prompt_usuario:
 # Mostrar historial actualizado
 
 area_chat()
-
-if __name__ == "__main__":
-    main()
